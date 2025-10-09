@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ActionIA.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <!-- Selección de idioma -->
+            <HorizontalStackLayout Spacing="10">
+                <Picker x:Name="FromLangPicker" Title="De:" WidthRequest="150"/>
+                <Button Text="⇄" Clicked="OnSwapClicked"/>
+                <Picker x:Name="ToLangPicker" Title="A:" WidthRequest="150"/>
+            </HorizontalStackLayout>
+
+            <!-- Entrada de texto / voz -->
+            <Editor x:Name="InputEditor" HeightRequest="100" Placeholder="Escribe o usa el micrófono..."/>
+
+            <!-- Botones -->
+            <HorizontalStackLayout Spacing="10">
+                <Button Text="🎤 Hablar" Clicked="OnListenClicked"/>
+                <Button Text="🌐 Traducir" Clicked="OnTranslateClicked"/>
+            </HorizontalStackLayout>
+
+            <!-- Resultado -->
+            <Label Text="Traducción:" FontAttributes="Bold"/>
+            <Editor x:Name="OutputEditor" HeightRequest="100" IsReadOnly="True"/>
+
+            <!-- Botón de leer en voz alta -->
+            <Button Text="🔊 Escuchar traducción" Clicked="OnSpeakClicked"/>
+        </VerticalStackLayout>
+
+
+    </ScrollView>
+
+</ContentPage>

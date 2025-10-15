@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActionIA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9bafc2167bfe318aea1c60e06799a58dc0667f73")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActionIA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActionIA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

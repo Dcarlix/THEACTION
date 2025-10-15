@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-10-09T04:25:51.343</Modified>
+      <Modified>2025-10-15T02:06:18.732</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-10-09T04:25:50.842</Modified>
+      <Modified>2025-10-15T02:06:18.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ActionIA.runtimeconfig.json">
       <PackagePath>ActionIA.runtimeconfig.json</PackagePath>
-      <Modified>2025-10-09T04:25:49.702</Modified>
+      <Modified>2025-10-12T05:13:34.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ActionIA.dll">
       <PackagePath>ActionIA.dll</PackagePath>
-      <Modified>2025-10-09T04:25:46.670</Modified>
+      <Modified>2025-10-15T02:06:15.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ActionIA.exe</PackagePath>
-      <Modified>2025-10-09T04:25:46.717</Modified>
+      <Modified>2025-10-15T02:06:15.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-10-05T05:20:54.408</Modified>
+      <Modified>2025-10-12T05:12:53.082</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-10-05T05:20:54.542</Modified>
+      <Modified>2025-10-12T05:12:53.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-10-05T05:20:54.698</Modified>
+      <Modified>2025-10-12T05:12:53.160</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-10-05T05:20:54.876</Modified>
+      <Modified>2025-10-12T05:12:53.222</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-10-05T05:20:55.368</Modified>
+      <Modified>2025-10-12T05:12:53.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\balatro.ttf">
+      <PackagePath>balatro.ttf</PackagePath>
+      <Modified>2025-09-22T02:47:06.085</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -82,213 +86,217 @@
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2025-10-05T05:14:38.200</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\vcr.ttf">
+      <PackagePath>vcr.ttf</PackagePath>
+      <Modified>2025-10-15T02:03:38.018</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-10-05T05:21:03.230</Modified>
+      <Modified>2025-10-12T04:58:54.156</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.146</Modified>
+      <Modified>2025-10-12T04:58:54.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.143</Modified>
+      <Modified>2025-10-12T04:58:54.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.143</Modified>
+      <Modified>2025-10-12T04:58:54.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.080</Modified>
+      <Modified>2025-10-12T04:58:54.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.080</Modified>
+      <Modified>2025-10-12T04:58:54.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.218</Modified>
+      <Modified>2025-10-12T04:58:54.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.216</Modified>
+      <Modified>2025-10-12T04:58:54.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.211</Modified>
+      <Modified>2025-10-12T04:58:54.139</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.211</Modified>
+      <Modified>2025-10-12T04:58:54.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.211</Modified>
+      <Modified>2025-10-12T04:58:54.140</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.221</Modified>
+      <Modified>2025-10-12T04:58:54.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.221</Modified>
+      <Modified>2025-10-12T04:58:54.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.218</Modified>
+      <Modified>2025-10-12T04:58:54.144</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.221</Modified>
+      <Modified>2025-10-12T04:58:54.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.218</Modified>
+      <Modified>2025-10-12T04:58:54.144</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.230</Modified>
+      <Modified>2025-10-12T04:58:54.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.230</Modified>
+      <Modified>2025-10-12T04:58:54.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.226</Modified>
+      <Modified>2025-10-12T04:58:54.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.226</Modified>
+      <Modified>2025-10-12T04:58:54.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.226</Modified>
+      <Modified>2025-10-12T04:58:54.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.226</Modified>
+      <Modified>2025-10-12T04:58:54.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.226</Modified>
+      <Modified>2025-10-12T04:58:54.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.221</Modified>
+      <Modified>2025-10-12T04:58:54.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.225</Modified>
+      <Modified>2025-10-12T04:58:54.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.221</Modified>
+      <Modified>2025-10-12T04:58:54.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.186</Modified>
+      <Modified>2025-10-12T04:58:54.126</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.186</Modified>
+      <Modified>2025-10-12T04:58:54.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.185</Modified>
+      <Modified>2025-10-12T04:58:54.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.178</Modified>
+      <Modified>2025-10-12T04:58:54.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.178</Modified>
+      <Modified>2025-10-12T04:58:54.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.196</Modified>
+      <Modified>2025-10-12T04:58:54.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.195</Modified>
+      <Modified>2025-10-12T04:58:54.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.190</Modified>
+      <Modified>2025-10-12T04:58:54.129</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.190</Modified>
+      <Modified>2025-10-12T04:58:54.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.186</Modified>
+      <Modified>2025-10-12T04:58:54.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.206</Modified>
+      <Modified>2025-10-12T04:58:54.138</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.206</Modified>
+      <Modified>2025-10-12T04:58:54.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.198</Modified>
+      <Modified>2025-10-12T04:58:54.135</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.198</Modified>
+      <Modified>2025-10-12T04:58:54.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.198</Modified>
+      <Modified>2025-10-12T04:58:54.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.178</Modified>
+      <Modified>2025-10-12T04:58:54.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.178</Modified>
+      <Modified>2025-10-12T04:58:54.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.158</Modified>
+      <Modified>2025-10-12T04:58:54.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.153</Modified>
+      <Modified>2025-10-12T04:58:54.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.151</Modified>
+      <Modified>2025-10-12T04:58:54.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.235</Modified>
+      <Modified>2025-10-12T04:58:54.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.230</Modified>
+      <Modified>2025-10-12T04:58:54.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.230</Modified>
+      <Modified>2025-10-12T04:58:54.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.230</Modified>
+      <Modified>2025-10-12T04:58:54.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-10-05T05:21:03.230</Modified>
+      <Modified>2025-10-12T04:58:54.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ActionIA.deps.json">
       <PackagePath>ActionIA.deps.json</PackagePath>
-      <Modified>2025-10-09T04:25:49.264</Modified>
+      <Modified>2025-10-12T05:34:00.978</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -429,6 +437,10 @@
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-08-01T22:37:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+      <Modified>2023-10-31T15:00:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\.nuget\packages\microsoft.maui.controls.core\8.0.100\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

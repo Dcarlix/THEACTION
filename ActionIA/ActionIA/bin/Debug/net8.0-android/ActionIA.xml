@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ActionIA</name>
+    </assembly>
+    <members>
+        <member name="M:ActionIA.MauiProgram.RegisterPlatformServices(Microsoft.Maui.Hosting.MauiAppBuilder)">
+            <summary>
+            Registra los servicios específicos según la plataforma.
+            </summary>
+        </member>
+        <member name="T:ActionIA.NotImplementedSpeechService">
+            <summary>
+            Implementación de respaldo para plataformas no soportadas.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -55,11 +55,17 @@
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\balatro.ttf">
+      <PackagePath>balatro.ttf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\vcr.ttf">
+      <PackagePath>vcr.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
@@ -321,6 +327,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\.nuget\packages\microsoft.maui.controls.core\8.0.100\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

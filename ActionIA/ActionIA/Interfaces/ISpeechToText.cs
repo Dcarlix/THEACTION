@@ -8,6 +8,6 @@ namespace ActionIA.Interfaces
 {
     public interface ISpeechToText
     {
-		Task<string> RecognizeSpeechAsync(string locale = "es-ES");
+		Task<string> RecognizeSpeechAsync(string locale);
 	}
 }

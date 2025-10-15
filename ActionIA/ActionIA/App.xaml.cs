@@ -2,11 +2,20 @@
 {
     public partial class App : Application
     {
-        public App()
+        public App(MainPage mainPage)
         {
-            InitializeComponent();
 
-            MainPage = new AppShell();
-        }
+			try
+			{
+				InitializeComponent();
+				MainPage = mainPage;
+
+			}
+			catch (Exception ex)
+			{
+				System.IO.File.WriteAllText("error_log.txt", ex.ToString());
+				throw;
+			}
+		}
     }
 }

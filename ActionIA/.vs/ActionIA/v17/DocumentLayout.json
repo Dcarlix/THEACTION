@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\actionia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\actionia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\platforms\\windows\\speechtotextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\platforms\\windows\\speechtotextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\platforms\\windows\\speechtotextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\platforms\\windows\\speechtotextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\actionia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\actionia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|c:\\users\\mineducyt\\desktop\\tercerosoft\\arci_2025\\entregafinalmaui\\actionia\\actionia\\interfaces\\ispeechtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8E00E7F-B3D2-44CF-A88C-59F87F0EB935}|ActionIA\\ActionIA.csproj|solutionrelative:actionia\\interfaces\\ispeechtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\Platforms\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "ActionIA\\Platforms\\Android\\AndroidManifest.xml",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\App.xaml",
               "RelativeDocumentMoniker": "ActionIA\\App.xaml",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\App.xaml.cs",
               "RelativeDocumentMoniker": "ActionIA\\App.xaml.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "SpeechToTextService.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\Platforms\\Windows\\SpeechToTextService.cs",
               "RelativeDocumentMoniker": "ActionIA\\Platforms\\Windows\\SpeechToTextService.cs",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "ActionIA\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
@@ -126,28 +126,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "ActionIA.csproj",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\ActionIA.csproj",
               "RelativeDocumentMoniker": "ActionIA\\ActionIA.csproj",
               "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\ActionIA.csproj",
               "RelativeToolTip": "ActionIA\\ActionIA.csproj",
-              "ViewState": "AgIAADQAAAAAAAAAAABBwAkAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwCoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-09T04:23:41.896Z"
+              "WhenOpened": "2025-10-09T04:23:41.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "ActionIA\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\MainPage.xaml.cs",
               "RelativeToolTip": "ActionIA\\MainPage.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T04:13:53.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T04:13:53.792Z"
             },
             {
               "$type": "Document",
@@ -157,14 +157,13 @@
               "RelativeDocumentMoniker": "ActionIA\\MainPage.xaml",
               "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\MainPage.xaml",
               "RelativeToolTip": "ActionIA\\MainPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAACZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-09T04:13:07.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T04:13:07.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\MauiProgram.cs",
               "RelativeDocumentMoniker": "ActionIA\\MauiProgram.cs",
@@ -187,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SpeechToTextImplementation.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\Platforms\\iOS\\SpeechToTextImplementation.cs",
               "RelativeDocumentMoniker": "ActionIA\\Platforms\\iOS\\SpeechToTextImplementation.cs",
@@ -199,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SpeechToTextImplementation.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\TerceroSoft\\Arci_2025\\EntregaFinalMaui\\ActionIA\\ActionIA\\Platforms\\Android\\SpeechToTextImplementation.cs",
               "RelativeDocumentMoniker": "ActionIA\\Platforms\\Android\\SpeechToTextImplementation.cs",

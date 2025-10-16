@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-10-15T02:06:18.732</Modified>
+      <Modified>2025-10-16T01:19:07.441</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-10-15T02:06:18.279</Modified>
+      <Modified>2025-10-16T01:19:06.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ActionIA.runtimeconfig.json">
       <PackagePath>ActionIA.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ActionIA.dll">
       <PackagePath>ActionIA.dll</PackagePath>
-      <Modified>2025-10-15T02:06:15.325</Modified>
+      <Modified>2025-10-16T01:19:03.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ActionIA.exe</PackagePath>
-      <Modified>2025-10-15T02:06:15.481</Modified>
+      <Modified>2025-10-16T01:19:03.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -296,7 +296,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ActionIA.deps.json">
       <PackagePath>ActionIA.deps.json</PackagePath>
-      <Modified>2025-10-12T05:34:00.978</Modified>
+      <Modified>2025-10-16T01:19:05.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

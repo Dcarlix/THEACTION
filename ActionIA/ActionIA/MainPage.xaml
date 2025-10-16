@@ -1,33 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ActionIA.MainPage">
+             x:Class="ActionIA.MainPage"
+             BackgroundColor="#F3F4F6">
    
-    <ScrollView>
-        <VerticalStackLayout Padding="20" Spacing="15" HorizontalOptions="Center">
-
+    <ScrollView HorizontalOptions="Center">
+        <VerticalStackLayout Padding="15" Spacing="25" HorizontalOptions="Center">
+            <Label Text="Action IA" TextColor="#1F2937" FontSize="35" FontAttributes="Bold" FontFamily="Balatro" HorizontalOptions="Center" Margin="10"/>
             <!-- Selección de idioma -->
-            <HorizontalStackLayout Spacing="10">
-                <Picker x:Name="FromLangPicker" Title="De:" WidthRequest="150" FontFamily="Balatro"/>
-                <Button Text="Cambiar" Clicked="OnSwapClicked" FontFamily="Balatro"/>
-                <Picker x:Name="ToLangPicker" Title="A:" WidthRequest="150" FontFamily="Balatro"/>
+            <HorizontalStackLayout Spacing="20" HorizontalOptions="Center" VerticalOptions="Center">
+                <Picker x:Name="FromLangPicker" Title="De:" WidthRequest="160" FontFamily="Balatro" TextColor="#1F2937" BackgroundColor="#0EA5E9"/>
+
+                <Picker x:Name="ToLangPicker" Title="A:" WidthRequest="160" FontFamily="Balatro" TextColor="#1F2937" BackgroundColor="#0EA5E9"/>
             </HorizontalStackLayout>
 
             <!-- Entrada de texto / voz -->
-            <Editor x:Name="InputEditor" HeightRequest="100" Placeholder="Escribe o usa el micrófono..." FontFamily="Balatro" FontSize="18"/>
+            <Editor x:Name="InputEditor" HeightRequest="80" Placeholder="Escribe o usa el micrófono..." FontFamily="Balatro" FontSize="16" TextColor="#1F2937" BackgroundColor="#0EA5E9" />
 
             <!-- Botones -->
-            <HorizontalStackLayout Spacing="10">
-                <Button Text="Hablar" Clicked="OnListenClicked" FontFamily="Balatro"/>
-                <Button Text="Traducir" Clicked="OnTranslateClicked" FontFamily="Balatro"/>
+            <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
+                <Button Text="Hablar" Clicked="OnListenClicked" FontFamily="Balatro" TextColor="#1F2937" BackgroundColor="#22C55E" BorderColor="#166534" BorderWidth="3"/>
+                <Button Text="Traducir" Clicked="OnTranslateClicked" FontFamily="Balatro" TextColor="#1F2937" BackgroundColor="#22C55E" BorderColor="#166534" BorderWidth="3"/>
+                <Button Text="Cambiar" Clicked="OnSwapClicked" FontFamily="Balatro" TextColor="#1F2937" BackgroundColor="#22C55E" BorderColor="#166534" BorderWidth="3"/>
             </HorizontalStackLayout>
 
             <!-- Resultado -->
-            <Label Text="Traducción:" FontAttributes="Bold" FontFamily="Balatro"/>
-            <Editor x:Name="OutputEditor" HeightRequest="100" IsReadOnly="True" FontFamily="Balatro" FontSize="18" Placeholder="Texto Traducido...."/>
+            <Label Text="Traducción:" FontAttributes="Bold" FontFamily="Balatro" TextColor="#1F2937" FontSize="18"/>
+            <Editor x:Name="OutputEditor" HeightRequest="80" IsReadOnly="True" FontFamily="Balatro" FontSize="16" Placeholder="Texto Traducido...." BackgroundColor="#0EA5E9" TextColor="#1F2937"/>
 
             <!-- Botón de leer en voz alta -->
-            <Button Text="🔊 Escuchar traducción" Clicked="OnSpeakClicked" FontFamily="Balatro"/>
+            <Button Text="Escuchar traducción" Clicked="OnSpeakClicked" FontFamily="Balatro" BackgroundColor="#22C55E" TextColor="#1F2937" BorderColor="#166534" BorderWidth="3"/>
         </VerticalStackLayout>
 
 

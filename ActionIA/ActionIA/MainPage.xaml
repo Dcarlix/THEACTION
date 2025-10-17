@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ActionIA.MainPage"
-             BackgroundColor="#F3F4F6">
+             BackgroundColor="#22C55E">
    
     <ScrollView HorizontalOptions="Center">
         <VerticalStackLayout Padding="15" Spacing="25" HorizontalOptions="Center">
@@ -19,9 +19,9 @@
 
             <!-- Botones -->
             <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
-                <Button Text="Hablar" Clicked="OnListenClicked" FontFamily="Balatro" TextColor="#1F2937" BackgroundColor="#22C55E" BorderColor="#166534" BorderWidth="3"/>
-                <Button Text="Traducir" Clicked="OnTranslateClicked" FontFamily="Balatro" TextColor="#1F2937" BackgroundColor="#22C55E" BorderColor="#166534" BorderWidth="3"/>
-                <Button Text="Cambiar" Clicked="OnSwapClicked" FontFamily="Balatro" TextColor="#1F2937" BackgroundColor="#22C55E" BorderColor="#166534" BorderWidth="3"/>
+                <Button Text="Hablar" Clicked="OnListenClicked" FontFamily="Balatro" TextColor="#F3F4F6" BackgroundColor="#166534" BorderColor="#F3F4F6" BorderWidth="3"/>
+                <Button Text="Traducir" Clicked="OnTranslateClicked" FontFamily="Balatro" TextColor="#F3F4F6" BackgroundColor="#166534" BorderColor="#F3F4F6" BorderWidth="3"/>
+                <Button Text="Cambiar" Clicked="OnSwapClicked" FontFamily="Balatro" TextColor="#F3F4F6" BackgroundColor="#166534" BorderColor="#F3F4F6" BorderWidth="3"/>
             </HorizontalStackLayout>
 
             <!-- Resultado -->
@@ -29,7 +29,7 @@
             <Editor x:Name="OutputEditor" HeightRequest="80" IsReadOnly="True" FontFamily="Balatro" FontSize="16" Placeholder="Texto Traducido...." BackgroundColor="#0EA5E9" TextColor="#1F2937"/>
 
             <!-- Botón de leer en voz alta -->
-            <Button Text="Escuchar traducción" Clicked="OnSpeakClicked" FontFamily="Balatro" BackgroundColor="#22C55E" TextColor="#1F2937" BorderColor="#166534" BorderWidth="3"/>
+            <Button Text="Escuchar traducción" Clicked="OnSpeakClicked" FontFamily="Balatro" BackgroundColor="#166534" TextColor="#F3F4F6" BorderColor="#F3F4F6" BorderWidth="3"/>
         </VerticalStackLayout>
 
 

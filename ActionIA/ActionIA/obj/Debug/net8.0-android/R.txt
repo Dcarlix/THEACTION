@@ -3807,10 +3807,10 @@ int layout shellcontent 0x7f0b006e
 int layout support_simple_spinner_dropdown_item 0x7f0b006f
 int layout tabbar 0x7f0b0070
 int layout toolbar 0x7f0b0071
-int mipmap pingo 0x7f0d0000
-int mipmap pingo_background 0x7f0d0001
-int mipmap pingo_foreground 0x7f0d0002
-int mipmap pingo_round 0x7f0d0003
+int mipmap pingovdos 0x7f0d0000
+int mipmap pingovdos_background 0x7f0d0001
+int mipmap pingovdos_foreground 0x7f0d0002
+int mipmap pingovdos_round 0x7f0d0003
 int plurals mtrl_badge_content_description 0x7f0e0000
 int string abc_action_bar_home_description 0x7f0f0000
 int string abc_action_bar_up_description 0x7f0f0001

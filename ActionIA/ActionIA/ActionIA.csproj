@@ -40,7 +40,7 @@
 
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="Resources\AppIcon\pingo.svg" ForegroundFile="Resources\AppIcon\pingo.svg" Color="#22C55E" />
+		<MauiIcon Include="Resources\AppIcon\pingovdos.svg" />
 		<!-- Splash Screen -->
 		<MauiSplashScreen Include="Resources\Splash\pingosplash.svg" Color="#22C55E" BaseSize="128,128" />
 		<!-- Images -->

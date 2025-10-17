@@ -12329,10 +12329,10 @@ public final class R {
     public static final int toolbar=0x7f0b0071;
   }
   public static final class mipmap {
-    public static final int pingo=0x7f0d0000;
-    public static final int pingo_background=0x7f0d0001;
-    public static final int pingo_foreground=0x7f0d0002;
-    public static final int pingo_round=0x7f0d0003;
+    public static final int pingovdos=0x7f0d0000;
+    public static final int pingovdos_background=0x7f0d0001;
+    public static final int pingovdos_foreground=0x7f0d0002;
+    public static final int pingovdos_round=0x7f0d0003;
   }
   public static final class plurals {
     public static final int mtrl_badge_content_description=0x7f0e0000;

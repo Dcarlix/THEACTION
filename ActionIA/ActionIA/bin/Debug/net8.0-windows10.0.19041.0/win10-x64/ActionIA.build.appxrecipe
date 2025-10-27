@@ -40,21 +40,6 @@
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\pingodosSplashScreen.scale-100.png">
-      <PackagePath>pingodosSplashScreen.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\pingodosSplashScreen.scale-125.png">
-      <PackagePath>pingodosSplashScreen.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\pingodosSplashScreen.scale-150.png">
-      <PackagePath>pingodosSplashScreen.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\pingodosSplashScreen.scale-200.png">
-      <PackagePath>pingodosSplashScreen.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\pingodosSplashScreen.scale-400.png">
-      <PackagePath>pingodosSplashScreen.scale-400.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\pingosplashSplashScreen.scale-100.png">
       <PackagePath>pingosplashSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -82,158 +67,179 @@
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\vcr.ttf">
       <PackagePath>vcr.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdos.ico">
-      <PackagePath>pingovdos.ico</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-100.png">
-      <PackagePath>pingovdosLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-125.png">
-      <PackagePath>pingovdosLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-150.png">
-      <PackagePath>pingovdosLargeTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-400.png">
+      <PackagePath>pingovdosLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-200.png">
       <PackagePath>pingovdosLargeTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-400.png">
-      <PackagePath>pingovdosLargeTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-150.png">
+      <PackagePath>pingovdosLargeTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-125.png">
+      <PackagePath>pingovdosLargeTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLargeTile.scale-100.png">
+      <PackagePath>pingovdosLargeTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>pingovdosLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>pingovdosLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>pingovdosLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>pingovdosLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>pingovdosLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-100.png">
-      <PackagePath>pingovdosLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-125.png">
-      <PackagePath>pingovdosLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-150.png">
-      <PackagePath>pingovdosLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-200.png">
-      <PackagePath>pingovdosLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-400.png">
-      <PackagePath>pingovdosLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-16.png">
-      <PackagePath>pingovdosLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-24.png">
-      <PackagePath>pingovdosLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-256.png">
-      <PackagePath>pingovdosLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-32.png">
-      <PackagePath>pingovdosLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-48.png">
-      <PackagePath>pingovdosLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-100.png">
-      <PackagePath>pingovdosMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-125.png">
-      <PackagePath>pingovdosMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-150.png">
-      <PackagePath>pingovdosMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-200.png">
-      <PackagePath>pingovdosMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-400.png">
-      <PackagePath>pingovdosMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-100.png">
-      <PackagePath>pingovdosSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-125.png">
-      <PackagePath>pingovdosSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-150.png">
-      <PackagePath>pingovdosSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-200.png">
-      <PackagePath>pingovdosSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-400.png">
-      <PackagePath>pingovdosSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-100.png">
-      <PackagePath>pingovdosStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-125.png">
-      <PackagePath>pingovdosStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-150.png">
-      <PackagePath>pingovdosStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-200.png">
-      <PackagePath>pingovdosStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-400.png">
-      <PackagePath>pingovdosStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-100.png">
-      <PackagePath>pingovdosWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-125.png">
-      <PackagePath>pingovdosWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-150.png">
-      <PackagePath>pingovdosWideTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-400.png">
+      <PackagePath>pingovdosWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-200.png">
       <PackagePath>pingovdosWideTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-400.png">
-      <PackagePath>pingovdosWideTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-150.png">
+      <PackagePath>pingovdosWideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-125.png">
+      <PackagePath>pingovdosWideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosWideTile.scale-100.png">
+      <PackagePath>pingovdosWideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-400.png">
+      <PackagePath>pingovdosMediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-200.png">
+      <PackagePath>pingovdosMediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-150.png">
+      <PackagePath>pingovdosMediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-125.png">
+      <PackagePath>pingovdosMediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosMediumTile.scale-100.png">
+      <PackagePath>pingovdosMediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-400.png">
+      <PackagePath>pingovdosSmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-200.png">
+      <PackagePath>pingovdosSmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-150.png">
+      <PackagePath>pingovdosSmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-125.png">
+      <PackagePath>pingovdosSmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosSmallTile.scale-100.png">
+      <PackagePath>pingovdosSmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-400.png">
+      <PackagePath>pingovdosStoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-200.png">
+      <PackagePath>pingovdosStoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-150.png">
+      <PackagePath>pingovdosStoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-125.png">
+      <PackagePath>pingovdosStoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosStoreLogo.scale-100.png">
+      <PackagePath>pingovdosStoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>pingovdosLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>pingovdosLogo.altform-unplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>pingovdosLogo.altform-unplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>pingovdosLogo.altform-unplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>pingovdosLogo.altform-unplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>pingovdosLogo.altform-unplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-256.png">
+      <PackagePath>pingovdosLogo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-48.png">
+      <PackagePath>pingovdosLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-32.png">
+      <PackagePath>pingovdosLogo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-24.png">
+      <PackagePath>pingovdosLogo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.targetsize-16.png">
+      <PackagePath>pingovdosLogo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-400.png">
+      <PackagePath>pingovdosLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-200.png">
+      <PackagePath>pingovdosLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-150.png">
+      <PackagePath>pingovdosLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-125.png">
+      <PackagePath>pingovdosLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdosLogo.scale-100.png">
+      <PackagePath>pingovdosLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pingovdos.ico">
+      <PackagePath>pingovdos.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fondochido.scale-100.png">
+      <PackagePath>fondochido.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fondo.scale-100.jpeg">
+      <PackagePath>fondo.scale-100.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sprinkle.scale-400.png">
+      <PackagePath>sprinkle.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sprinkle.scale-200.png">
+      <PackagePath>sprinkle.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sprinkle.scale-150.png">
+      <PackagePath>sprinkle.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sprinkle.scale-125.png">
+      <PackagePath>sprinkle.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sprinkle.scale-100.png">
+      <PackagePath>sprinkle.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MINEDUCYT\Desktop\TerceroSoft\Arci_2025\EntregaFinalMaui\ActionIA\ActionIA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ActionIA.deps.json">
       <PackagePath>ActionIA.deps.json</PackagePath>

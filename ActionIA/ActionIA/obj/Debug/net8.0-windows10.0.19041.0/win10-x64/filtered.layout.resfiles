@@ -7,6 +7,8 @@ dotnet_bot.scale-125.png
 dotnet_bot.scale-150.png
 dotnet_bot.scale-200.png
 dotnet_bot.scale-400.png
+fondo.scale-100.jpeg
+fondochido.scale-100.png
 pingovdos.ico
 pingovdosLargeTile.scale-100.png
 pingovdosLargeTile.scale-125.png
@@ -53,11 +55,11 @@ pingovdosWideTile.scale-125.png
 pingovdosWideTile.scale-150.png
 pingovdosWideTile.scale-200.png
 pingovdosWideTile.scale-400.png
-pingodosSplashScreen.scale-100.png
-pingodosSplashScreen.scale-125.png
-pingodosSplashScreen.scale-150.png
-pingodosSplashScreen.scale-200.png
-pingodosSplashScreen.scale-400.png
+sprinkle.scale-100.png
+sprinkle.scale-125.png
+sprinkle.scale-150.png
+sprinkle.scale-200.png
+sprinkle.scale-400.png
 pingosplashSplashScreen.scale-100.png
 pingosplashSplashScreen.scale-125.png
 pingosplashSplashScreen.scale-150.png
